@@ -7,7 +7,7 @@
 2. Conduct an in-depth comparison between [**Market Performance**](./Performances%20vs%20Target%20Report.pdf) and sales targets to identify gaps and growth opportunities.
 
 ### 💰 Finance Report
-1. Build Profit & Loss (P&L) statements by [**Fiscal Year**](./P%26L%20Statement%20by%20Fiscal%20year.pdf), [**Fiscal Month**](./P%26L%20Statement%20by%20Monthwise.pdf), and [**Markets**](./P%26L%20Statement%20by%20Markets.pdf) to provide a multi-dimensional view of financial health.
+1. Build Profit & Loss (P&L) statements by [**Fiscal Year**](./P%26L%20Statement%20by%20Fiscal%20year.pdf), [**Fiscal Month**](./P%26L%20Statement%20by%20Monthwise.pdf), and [**Markets**](./P%20%26%20L%20Statement%20By%20Markets.pdf) to provide a multi-dimensional view of financial health.
 2. Compare YoY financial growth, margin trends, and geographical contributions to revenue.
 
 ---
